@@ -6,3 +6,5 @@ raspi_pi4(socket)
 
 raspi_pi4(update)
 raspi_pi4(upgrade)
+
+raspi_pi4 (local_edit)
