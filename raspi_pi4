@@ -4,3 +4,19 @@ mygit(repo_ini)
 raspi_pi4(powerOn)
 raspi_pi4(socket)
 
+raspi_pi4(update)
+raspi_pi4(upgrade)
+
+raspi_pi4(local_edit)
+raspi_pi4(local_edit)em 2020-08-20 22:30
+raspi_pi4(local_edit)em 2020-08-20 22:44
+raspi_pi4(local_edit)em 2020-08-20 22:52
+raspi_pi4(local_edit)em 2020-08-20, conclusões: O sistema funciona
+Roteiro: (1-> abrir o ficheiro e editar o trabalho)
+         (2-> no terminal-cli: git status
+         (3-> no terminal-cli: git add raspi_pi4
+         (4-> no terminal-cli: git commit
+         (5-> no editor nano, personalizar a mensagem
+         (6-> no terminal-cli: git push
+         (7-> introduzir as credenciais da conta github 
+
