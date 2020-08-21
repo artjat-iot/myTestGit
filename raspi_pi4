@@ -7,17 +7,16 @@ raspi_pi4(socket)
 raspi_pi4(update)
 raspi_pi4(upgrade)
 
-raspi_pi4(local_edit)teste
-raspi_pi4(local_edit)teste em 2020-08-20 22:30
-raspi_pi4(local_edit)teste em 2020-08-20 22:44
-raspi_pi4(local_edit)teste em 2020-08-20 22:52
-raspi_pi4(local_edit)teste em 2020-08-20, conclusões: O sistema funciona
-raspi_p4 (local_edit)roteiro: 1-> abrir o ficheiro e editar o trabalho
-raspi_p4 (local_edit)roteiro: 2-> no terminal-cli: git status
-raspi_p4 (local_edit)roteiro: 3-> no terminal-cli: git add raspi_pi4
-raspi_p4 (local_edit)roteiro: 4-> no terminal-cli: git commit
-raspi_p4 (local_edit)roteiro: 5-> no editor nano, personalizar a mensagem
-raspi_p4 (local_edit)roteiro: 6-> no terminal-cli: git push
-raspi_p4 (local_edit)roteiro: 7-> introduzir as credenciais da conta github 
-
-raspi_pi4(local_harware)task 1
+raspi_pi4(local_edit)
+raspi_pi4(local_edit)em 2020-08-20 22:30
+raspi_pi4(local_edit)em 2020-08-20 22:44
+raspi_pi4(local_edit)em 2020-08-20 22:52
+raspi_pi4(local_edit)em 2020-08-20, conclusões: O sistema funciona
+Roteiro: (1-> abrir o ficheiro e editar o trabalho)
+         (2-> no terminal-cli: git status
+         (3-> no terminal-cli: git add raspi_pi4
+         (4-> no terminal-cli: git commit
+         (5-> no editor nano, personalizar a mensagem
+         (6-> no terminal-cli: git push
+         (7-> introduzir as credenciais da conta github 
+raspi_pi4(hardware)
